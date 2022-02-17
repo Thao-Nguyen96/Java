@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
 
     User user;
 
+    User student;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
